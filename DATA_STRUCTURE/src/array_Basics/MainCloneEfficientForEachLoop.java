@@ -8,7 +8,7 @@ public class MainCloneEfficientForEachLoop {
 	names[2]="Cattty";
 	names[3]="jatt";
 	names[4]="Fatty";
-	for(String n: names)// For loop pickup the data one by one defaultly proceed from start and traversing to end it need container datatype variable for iterating from start to end 
+	for(String n: names)// For loop pickup the data one by one defaultly proceed from start and traversing to end, it need container for(datatype variable name : array name) for iterating from start to end and then terminated
 		{
 		System.out.println(n);
 }
